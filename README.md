@@ -6,7 +6,7 @@
 
 I'm passionate about airplanes, and my heart belongs to the bustling runways of London Heathrow (United Kingdom) and the modern charm of Rajiv Gandhi International Airport (India). The Boeing 777 and Airbus A350 are not just aircraft to me; they are marvels of engineering and a source of endless fascination.
 
-By day, I'm a full-stack developer, seamlessly navigating both the backend and frontend realms. I thrive on crafting elegant solutions that bring ideas to life. My coding journey extends beyond work, as I indulge in my coding hobby during leisure hours.
+By day, I'm a full-stack developer, seamlessly navigating both the backend and frontend realms. My coding journey extends beyond work, as I indulge in my coding hobby during leisure hours.
 
 As a member and Developer of Interational Virtual Aviation Organisation (IVAO) and Web Master of IVAO India, aviation is not just a passion but a virtual adventure I embark on regularly. Additionally, I contribute my skills to iCrewSystems LLP, a software company where innovation meets execution.
 
