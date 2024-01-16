@@ -1,6 +1,6 @@
 # Hi, I'm Veda ✈️✈️
 <div>
-  <img src="https://cdn.discordapp.com/attachments/862261652950482985/1196763453117972550/Veda_Moola.png?ex=65b8cfd2&is=65a65ad2&hm=fe4a8b4f471038ffd032b4b7249bea20640ae13a9f168ce575254d80be18f163&" />
+  <img style="width: 100%;" src="https://cdn.discordapp.com/attachments/862261652950482985/1196763453117972550/Veda_Moola.png?ex=65b8cfd2&is=65a65ad2&hm=fe4a8b4f471038ffd032b4b7249bea20640ae13a9f168ce575254d80be18f163&" />
 </div>
 
 
