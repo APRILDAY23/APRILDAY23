@@ -45,4 +45,4 @@ As a member and Developer of the International Virtual Aviation Organisation (IV
 
 ---
 
-Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/veda-moola-57ab422b1/].
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/veda-moola-57ab422b1/).
