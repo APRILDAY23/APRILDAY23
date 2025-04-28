@@ -40,6 +40,15 @@ As a member and Developer of the International Virtual Aviation Organisation (IV
 - Full-stack developer with experience in PHP, Laravel, and JavaScript frameworks, working on large-scale web applications.
 - Managed SQL databases to ensure high performance and reliability in aviation-related systems.
 
+## SPICMACAY
+- Developing a user-friendly website for SPICMACAY IIT Hyderabad's event registration using Laravel.
+- Allows participants to easily register for the event and manage their details.
+- Sends automated confirmation emails to participants.
+- Streamlines event management for the organizing team.
+- Simplifies tracking of registrations and sending event-related updates.
+- Ensures smooth communication with attendees.
+- The design is intuitive, providing an efficient and seamless experience for both users and organizers.
+
 ### Personal Projects
 - Developed various personal web projects and contributed to open-source projects. These include backend and frontend solutions using Laravel, React, and Node.js.
 
